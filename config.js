@@ -8,12 +8,12 @@ import axios from 'axios'
 
 global.owner = [
   ['254768005355', 'kinflux bot', true],
-  ['+254110377776', 'zamzack254', true], 
+  ['+2348110961623', 'Reborn', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['22589747147','254110377776','254765777423'] 
-global.prems = ['22589747147', '254110377776', '254740654689']
+global.mods = ['2348110961623','2348110961623','2348110961623'] 
+global.prems = ['2348110961623', '2348110961623', '2348110961623']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = 'Reborn Bot god'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.packname = 'Reborn ┃ᴮᴼᵀ' 
+global.author = 'Reborn Tech' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
 global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
